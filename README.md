@@ -109,6 +109,8 @@ Successfully tested on sketch classes including:
 - Abstract concepts (smile, star)
 
 ## Results and Performance
+![tornado_sketch-ezgif com-resize (1)](https://github.com/user-attachments/assets/fccbca9f-6dd5-4feb-a910-318367b3ccaf)
+
 
 ### Generation Quality
 - **Comparable to SketchRNN**: Achieves similar sketch quality to original implementation
